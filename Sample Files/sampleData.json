@@ -1,0 +1,51 @@
+{
+    "coord": {
+        "lon": -74.121, 
+        "lat": 40.3307
+    }, 
+    "weather": [
+        {
+            "id": 600, 
+            "main": "Snow", 
+            "description": "light snow", 
+            "icon": "13d"
+        }, 
+        {
+            "id": 701, 
+            "main": "Mist", 
+            "description": "mist", 
+            "icon": "50d"
+        }
+    ], 
+    "base": "stations", 
+    "main": {
+        "temp": 31.24, 
+        "feels_like": 12.42, 
+        "temp_min": 30, 
+        "temp_max": 32, 
+        "pressure": 1004, 
+        "humidity": 93
+    }, 
+    "visibility": 2414, 
+    "wind": {
+        "speed": 26.46, 
+        "deg": 40, 
+        "gust": 39.12
+        }, "snow": 
+    {"1h": 0.5}, 
+    "clouds": {
+        "all": 90
+        }, 
+    "dt": 1612205476, 
+    "sys": {
+        "type": 1, 
+        "id": 3467, 
+        "country": "US", 
+        "sunrise": 1612181128, 
+        "sunset": 1612217680
+        }, 
+    "timezone": -18000, 
+    "id": 5100498, 
+    "name": "Lincroft", 
+    "cod": 200
+}
